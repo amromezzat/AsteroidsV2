@@ -60,8 +60,18 @@ SpriteAtlas:
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 09469a203757600429ab4f4617f6d391, type: 3}
+  - {fileID: 21300000, guid: 8dc851fabbb7b4045b55f9589895f143, type: 3}
+  - {fileID: 21300000, guid: c6f24f2d2b46bb24caec5a5cb115ebd8, type: 3}
+  - {fileID: 21300000, guid: 6e89128e5fcf0c140a35039ded141e4f, type: 3}
+  - {fileID: 21300000, guid: 171c37cfa0bf5a64488667c6012b1d3a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - playerShip1_damage3
+  - playerShip1_blue
+  - playerShip1_damage2
+  - playerShip1_damage1
+  - speed
   m_RenderDataMap: {}
   m_Tag: fullship
   m_IsVariant: 0
